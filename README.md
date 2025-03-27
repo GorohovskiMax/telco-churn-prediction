@@ -11,6 +11,12 @@ targeted retention strategies and minimize losses.
 **Goal**: Predict whether a customer will churn based on their demographic, service,
 and billing data, and offer insights into the key drivers of churn
 
+## 🗂️ Project Structure
+- **notebook/**: Main notebook for the data science project
+- **README.md**: Project overview and usage instructions
+- **data/**: Folder in which the .csv file will be placed for work
+
+  
 ## 📊Dataset
 - **Name**: Telco Customer Churn
 - **Source**: [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data)
@@ -40,11 +46,6 @@ and billing data, and offer insights into the key drivers of churn
 
 6. Business Insights & Recommendations
 
-
-## Project Structure
-- **notebook/**: Main notebook for the data science project
-- **README.md**: Project overview and usage instructions
-- **data/**: Folder in which the .csv file will be placed for work
 
 
 ## 🎨 Visual Insights from EDA 
