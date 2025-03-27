@@ -104,6 +104,7 @@ which is crucial in real-world churn prevention.
 - Visualization (Seaborn, Matplotlib)
 - Scikit-learn (Logistic Regression, Random Forest, GridSearchCV)
 
+## 🙏 Few finals words
 🚀 This project is a full cycle application of machine learning in a real business scenario.
 from data preparation and feature engineering to insights and model tuning, it highlights how data science
 can offer concrete business value. If you found this project useful or interesting, feel free to ⭐ the repo or reach out!🚀 
